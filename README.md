@@ -13,7 +13,7 @@ With [npm](https://npmjs.org) do:
 
 After installation, include the module in main file, 
 ```javascript
-const scrypt = require('scrypt');
+const scrypt = require('@mhs003/scrypt');
 ```
 
 ## methods
