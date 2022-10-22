@@ -1,6 +1,6 @@
 {
   "name": "@mhs003/scrypt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple text encoder/decoder",
   "main": "index.js",
   "scripts": {
