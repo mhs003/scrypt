@@ -1,0 +1,22 @@
+{
+  "name": "scrypt",
+  "version": "1.0.0",
+  "description": "Simple text encoder/decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mhs003/scrypt.git"
+  },
+  "keywords": [
+    "scrypt"
+  ],
+  "author": "Monzurul Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhs003/scrypt/issues"
+  },
+  "homepage": "https://github.com/mhs003/scrypt#readme"
+}
