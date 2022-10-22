@@ -7,15 +7,9 @@ The algorithm will generate a new encoded string for given text in each running 
 
 ## install
 
-~~With [npm](https://npmjs.org) do:~~
+With [npm](https://npmjs.org) do:
 
-~~`npm install scrypt`~~
-
-Custom install:
-
-Create a new folder called `scrypt` in `node_modules` directory and place all these files in the folder.
-
-Add `"scrypt": "^1.0.0"` dependency in packages.json
+`npm i @mhs003/scrypt`
 
 After installation, include the module in main file, 
 ```javascript
