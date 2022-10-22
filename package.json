@@ -1,5 +1,5 @@
 {
-  "name": "scrypt",
+  "name": "@mhs003/scrypt",
   "version": "1.0.0",
   "description": "Simple text encoder/decoder",
   "main": "index.js",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/mhs003/scrypt/issues"
   },
-  "homepage": "https://github.com/mhs003/scrypt#readme"
+  "homepage": "https://github.com/mhs003/scrypt#readme",
+  "types": "./index.d.ts",
+  "directories": {
+    "test": "test"
+  }
 }
